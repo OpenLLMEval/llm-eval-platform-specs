@@ -104,17 +104,7 @@ Each dataset entry typically includes:
 * Retrieved Context / Source Documents
 * Expected Answer (optional)
 * Evaluation Criteria
-* Content Type
 
-### Supported Content Types
-
-* Solution Articles
-* Product Documentation
-* CVEs & Security Advisories
-* Errata
-* Customer Portal Downloads
-* Product Compliance Content
-* Developer Blogs
 
 ---
 
